@@ -2,7 +2,12 @@
 
 ![Xijun Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopper-xdu&show_icons=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopper-xdu&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopper-xdu&size_weight=0.5&count_weight=0.5&exclude_repo=homepage,kopper-xdu.github.io&layout=compact)
+
+[![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper-xdu)]
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **kopper-xdu/kopper-xdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
