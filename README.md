@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+![Xijun Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopper-xdu&show_icons=true&bg_color=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopper-xdu&size_weight=0.5&count_weight=0.5)
 
 <!--
 **kopper-xdu/kopper-xdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
