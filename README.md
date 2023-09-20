@@ -8,13 +8,13 @@
 ![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 170.1 kB Used in GitHub's Storage 
+> 📦 170.2 kB Used in GitHub's Storage 
  > 
 > 🏆 86 Contributions in the Year 2023
  > 
@@ -51,16 +51,21 @@ Sunday                   37 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   11 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 31 mins       ██████████████████████░░░   86.90 % 
+YAML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          11 mins             █████████████████████████   100.00 % 
+puzzle                   2 hrs 43 mins       ███████████████████████░░   93.51 % 
+Unknown Project          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +85,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2023 18:38:22 UTC
+ Last Updated on 20/09/2023 18:37:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
