@@ -8,7 +8,7 @@
 ![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,20 +51,18 @@ Sunday                   30 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Assembly                 1 hr 19 mins        ████████████████████████░   97.16 % 
-ca65 assembler           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Assembly                 1 hr 6 mins         ████████████████████████░   97.80 % 
+ca65 assembler           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MyBuild                  1 hr 4 mins         ████████████████████░░░░░   78.70 % 
-sar                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+MyBuild                  1 hr 4 mins         ████████████████████████░   94.15 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +82,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2023 18:37:41 UTC
+ Last Updated on 20/10/2023 18:36:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
