@@ -24,6 +24,45 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+🌆 Daytime                90 commits          █████████████████░░░░░░░░   67.67 % 
+🌃 Evening                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌙 Night                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Friday                   41 commits          ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Saturday                 34 commits          ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+Sunday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -41,7 +80,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2023 18:38:03 UTC
+ Last Updated on 07/12/2023 18:38:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
