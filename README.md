@@ -16,8 +16,6 @@
 
 > 📦 185.2 kB Used in GitHub's Storage 
  > 
-> 🏆 82 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -80,7 +78,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2023 18:36:42 UTC
+ Last Updated on 23/12/2023 18:36:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
