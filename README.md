@@ -49,16 +49,16 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-YAML                     28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +78,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2024 18:36:35 UTC
+ Last Updated on 19/04/2024 18:36:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
