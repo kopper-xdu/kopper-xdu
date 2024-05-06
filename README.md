@@ -8,15 +8,13 @@
 ![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 188.3 kB Used in GitHub's Storage 
- > 
-> 🏆 33 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,20 +49,20 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Bash                     6 mins              ███████████████░░░░░░░░░░   60.97 % 
-Markdown                 2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Bash                     7 mins              ████████████████░░░░░░░░░   62.40 % 
+Markdown                 2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Video-LLaVA              10 mins             █████████████████████████   100.00 % 
+Video-LLaVA              11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +82,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2024 18:37:05 UTC
+ Last Updated on 06/05/2024 18:37:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
