@@ -16,8 +16,6 @@
 
 > 📦 188.4 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -51,20 +49,16 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   16 mins             ████████████████████░░░░░   81.49 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-guided-diffusion         17 mins             ██████████████████████░░░   88.80 % 
-diffusion                2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +78,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2024 18:38:27 UTC
+ Last Updated on 23/05/2024 18:38:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
