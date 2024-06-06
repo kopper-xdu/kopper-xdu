@@ -8,13 +8,15 @@
 ![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 188.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 35 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,19 +51,18 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   45 mins             ███████████████████░░░░░░   74.80 % 
-Text                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Python                   30 mins             █████████████████████████   99.52 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dl_code                  27 mins             ███████████░░░░░░░░░░░░░░   45.23 % 
-上机4                      18 mins             ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-上机3                      15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+dl_code                  27 mins             ███████████████████████░░   90.32 % 
+大作业                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +82,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2024 18:38:45 UTC
+ Last Updated on 06/06/2024 18:38:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
