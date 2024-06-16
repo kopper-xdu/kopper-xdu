@@ -33,12 +33,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
-
-
  Last Updated on 15/06/2024 18:38:15 UTC
 <!--END_SECTION:waka-->
 
