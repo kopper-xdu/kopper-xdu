@@ -8,7 +8,7 @@
 ![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -49,16 +49,19 @@ Sunday                   33 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 7 mins         █████████████████░░░░░░░░   66.63 % 
+YAML                     31 mins             ████████░░░░░░░░░░░░░░░░░   31.09 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pytorch-template         1 hr 40 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +81,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2024 18:39:56 UTC
+ Last Updated on 09/07/2024 18:40:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
