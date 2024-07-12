@@ -8,7 +8,7 @@
 ![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -51,19 +51,20 @@ Sunday                   33 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 7 mins         █████████████████░░░░░░░░   66.63 % 
-YAML                     31 mins             ████████░░░░░░░░░░░░░░░░░   31.09 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python                   1 hr 12 mins        █████████████████░░░░░░░░   68.18 % 
+YAML                     31 mins             ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pytorch-template         1 hr 40 mins        █████████████████████████   100.00 % 
+pytorch-template         1 hr 40 mins        ████████████████████████░   95.38 % 
+dl_code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +84,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2024 18:39:51 UTC
+ Last Updated on 12/07/2024 18:41:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
