@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,7 +84,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2024 18:41:27 UTC
+ Last Updated on 13/07/2024 18:37:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
