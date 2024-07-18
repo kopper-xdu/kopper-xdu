@@ -8,7 +8,7 @@
 ![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -51,16 +51,21 @@ Sunday                   33 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
+YAML                     23 mins             ██████████░░░░░░░░░░░░░░░   38.24 % 
+Markdown                 11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Git Config               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dl_code                  4 mins              █████████████████████████   100.00 % 
+homepage                 57 mins             ███████████████████████░░   92.21 % 
+dl_code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +85,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2024 18:41:11 UTC
+ Last Updated on 18/07/2024 18:40:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
