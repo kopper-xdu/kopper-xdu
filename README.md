@@ -8,15 +8,13 @@
 ![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 257.9 kB Used in GitHub's Storage 
- > 
-> 🏆 38 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,18 +49,22 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 12 mins        ████████████████████████░   95.51 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Python                   33 mins             ██████████████████░░░░░░░   71.64 % 
+YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+VS Code                  47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-diffusers                55 mins             ██████████████████░░░░░░░   72.09 % 
-diffusers-main           21 mins             ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Unknown Project          24 mins             █████████████░░░░░░░░░░░░   52.49 % 
+diffusers-main           21 mins             ███████████░░░░░░░░░░░░░░   45.09 % 
+PhotoMaker-main          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +84,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2024 18:39:12 UTC
+ Last Updated on 26/08/2024 18:41:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
