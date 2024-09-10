@@ -8,15 +8,13 @@
 ![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 257.9 kB Used in GitHub's Storage 
- > 
-> 🏆 39 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,18 +49,18 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    8 mins              █████████████████░░░░░░░░   68.21 % 
-Python                   3 mins              ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Other                    19 mins             █████████████████████░░░░   84.57 % 
+Python                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 mins              █████████████████░░░░░░░░   68.21 % 
-pytorch-template         3 mins              ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Unknown Project          19 mins             █████████████████████░░░░   85.36 % 
+dl_code                  3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +80,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2024 18:43:08 UTC
+ Last Updated on 10/09/2024 18:42:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
