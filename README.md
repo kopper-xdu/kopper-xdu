@@ -8,13 +8,15 @@
 ![Xijun Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kopper)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 258.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 42 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,17 +51,21 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   20 mins             ███████████████████████░░   91.59 % 
-YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Python                   21 mins             ███████████████░░░░░░░░░░   58.64 % 
+Bash                     12 mins             █████████░░░░░░░░░░░░░░░░   35.29 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pytorch-template         22 mins             █████████████████████████   100.00 % 
+pytorch-template         22 mins             ███████████████░░░░░░░░░░   61.67 % 
+Unknown Project          12 mins             █████████░░░░░░░░░░░░░░░░   35.66 % 
+GithubSoEasy             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +85,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2024 18:42:09 UTC
+ Last Updated on 27/10/2024 18:41:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
