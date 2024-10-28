@@ -16,8 +16,6 @@
 
 > 📦 258.0 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -85,7 +83,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopper-xdu/kopper-xdu/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2024 18:41:46 UTC
+ Last Updated on 28/10/2024 18:45:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
